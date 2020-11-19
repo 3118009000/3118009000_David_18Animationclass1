@@ -1,0 +1,17 @@
+{
+"companyName": "Gdut",
+"productName": "FLY IN SKY",
+"productVersion": "1.0",
+"dataUrl": "FLY IN THE SKY.data.unityweb",
+"wasmCodeUrl": "FLY IN THE SKY.wasm.code.unityweb",
+"wasmFrameworkUrl": "FLY IN THE SKY.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "FLY IN THE SKY.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1c1"
+}
